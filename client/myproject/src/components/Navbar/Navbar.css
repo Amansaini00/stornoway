@@ -1,0 +1,44 @@
+  /*---Navbar---*/
+  .navbar {
+    position: absolute;
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    font-size: 2em;
+    font-weight: bold;
+    padding-left: 70px;
+}
+
+.navbar .nav-links ul {
+    display: flex;
+}
+
+.navbar .nav-links ul li {
+    margin: 0 25px;
+}
+
+
+
+.nav-menu{
+    margin-left: 583px;
+}
+
+.nav-menu li a:hover{
+    border-bottom: 2px solid #ffffff;
+    font-weight: 500;
+}
+
+.navbar a {
+    color: #ffffff;
+}
+.nav-menu{
+    margin-left: 470px;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,50 @@
+.header-project .heading-project{
+    padding-top: 415px;
+margin-left:120px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 550;
+}
+/*---Header---*/
+.header-project {
+    height: 587px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/projects-m6LV8Ra6jXcQkzg5.png);
+    background-size: 1517px;
+
+}
+/*main*/
+.one-project{
+    margin-top: 130px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+}
+.one1-project{
+    font-size: 25px;
+    width: 400px;
+    padding-right: 103px;
+}
+.one2-project{
+    margin-left: 15px;
+    font-size: 19px;
+    width: 540px;
+}
+.two-project{
+    margin-top: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+}
+.two1-project img{
+    width: 400px;
+    height: 432px;
+}
+.two2-project img{
+    margin-left: 15px;
+    width: 812px;
+    height: 432px;
+}
+
+

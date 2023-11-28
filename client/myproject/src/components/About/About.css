@@ -1,0 +1,48 @@
+/*---Header---*/
+.header-about {
+    height: 587px;
+    width: 1517px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/Group-mxByzx7eeNHVrGEd.png);
+    background-size: 1517px;
+
+}
+.header-about .heading-about{
+    padding-top: 415px;
+margin-left:120px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 550;
+}
+/*main*/
+.one{
+    padding-top: 80px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+}
+.oneleft{
+    width: 400px;
+    padding-right: 50px
+}
+.oneleft h3{
+    font-size: 37px;
+}
+.onemid{
+    width: 400px;
+    font-size: 19px;
+}
+.oneright{
+    padding-left: 27px;
+    width: 400px;
+    font-size: 19px;
+}
+.two{
+    padding-top: 80px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+}
+.twoimg2{
+    margin-left: 10px;
+}

@@ -1,0 +1,87 @@
+ /*---Header---*/
+ .header {
+    height:250px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-d95NMRgj2BTZxZxw.png);
+    background-size: 1517px;
+
+}
+  /*main*/
+  .heading{
+    margin-top: 150px;
+    margin-left: 120px;
+    margin-right: 120px;
+    line-height: 52px;
+}
+.heading h3{
+    font-size: 43px;
+}
+.heading span{
+    font-size: 25px;
+}
+.cont-1{
+    margin-top: 80px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+
+}
+.c1{
+    width:550px;
+}
+.c1 h3{
+    font-size:30px
+}
+.c2{
+width: 1000px;
+font-size: 19px;
+padding-right: 140px;
+}
+#a1 li{
+margin-top: 20px;
+}
+
+ /*base*/
+ .base{
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/contact_us_image-AGB0qOpEMec72aep.png);
+height: 695px;
+width: 1520px;
+margin-top:140px;
+}
+.bt1{
+    margin-left: 650px;
+font-size: 23px;
+width: 205px;
+height: 62px;
+font-weight: 400;
+margin-top: 35px;
+}
+.bt1 a{
+    color: black;
+    display: block;
+width: 202px;
+height: 50px;
+padding-top: 12px;
+
+}
+.bt1:hover{
+    background-color: black;
+}
+.bt1 a:hover{
+    color: white;
+}
+.basecontent{
+    padding-top: 170px;
+    display: grid;
+text-align: center;
+color: white;
+}
+.basecontent h3{
+    font-size: 70px;
+}
+.basecontent span{
+    margin-top: 30px;
+    font-size: 26px;
+width: 677px;
+margin-left: 409px;
+}

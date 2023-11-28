@@ -1,0 +1,100 @@
+/*---Header---*/
+.header-services {
+    height: 587px;
+    width: 1517px;
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/services-A3QyBgglPrso0Vbv.png);
+    background-size: 1517px;
+
+}
+.header-services .heading-services{
+    padding-top: 415px;
+margin-left:120px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 550;
+}
+
+/*head*/
+.head1-services{
+    margin-top: 110px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 110px;
+}
+.heading1-services{
+    font-size: 28px;
+    padding-right: 266px;
+}
+/*banner*/
+.banner-services{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.bcon-services{
+    margin-left: 56px;
+}
+.bspan-services{
+    padding-top: 20px;
+    font-size: 19px;
+    padding-right: 150px;
+}
+.num-services h3{
+    padding-top: 40px;
+    font-size: 70px;
+font-weight: revert;
+}
+.bhead-services h3{
+    padding-top: 30px;
+    font-size: 27px;
+}
+.bimg-services img{
+    height: 368px;
+    width: 503px;
+}
+/*base*/
+.base-services{
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/contact_us_image-AGB0qOpEMec72aep.png);
+height: 695px;
+width: 1520px;
+margin-top:140px;
+}
+.bt1-services{
+    margin-left: 650px;
+font-size: 23px;
+width: 205px;
+height: 62px;
+font-weight: 400;
+margin-top: 35px;
+}
+.bt1-services a{
+    color: black;
+    display: block;
+width: 202px;
+height: 50px;
+padding-top: 12px;
+
+}
+.bt1-services:hover{
+    background-color: black;
+}
+.bt1-services a:hover{
+    color: white;
+}
+.basecontent-services{
+    padding-top: 170px;
+    display: grid;
+text-align: center;
+color: white;
+}
+.basecontent-services h3{
+    font-size: 70px;
+}
+.basecontent-services span{
+    margin-top: 30px;
+    font-size: 26px;
+width: 677px;
+margin-left: 409px;
+}

@@ -1,0 +1,49 @@
+
+        /*---Header---*/
+        .header-carrer {
+            height: 587px;
+            width: 1517px;
+            background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/stornowayj2oil/careers_image-A3QyB0Q115ck0Kb2.png);
+            background-size: 1517px;
+
+        }
+.header-carrer .heading-carrer{
+    padding-top: 415px;
+margin-left:120px;
+color: #ffffff;
+font-size: 104px;
+font-family: 'Hammersmith One', sans-serif;
+font-weight: 550;
+}
+/*body*/
+.head-carrer{
+    margin-top: 150px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.head-carrer h3{
+    font-size: 50px;
+}
+.tag-carrer{
+    margin-top: 100px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.num-carrer span{
+    font-size: 55px;
+font-weight: 900;
+}
+.post-carrer{
+    margin-top: 18px;
+}
+.Navlinks{
+    font-size: 35px;
+text-decoration: underline;
+color: black;
+}
+.time-carrer{
+    margin-top: 25px;
+}
+.time-carrer span{
+    font-size: 25px;
+}
